@@ -6,7 +6,7 @@ My name is Fede! I'm a physicist, professional software developer and opensource
 
 - 🔭 I’m currently working at [evopro AG](https://github.com/evopro-ag)
 - 🌱 I’m currently studing at OTH Regensburg to acquiring the Master of Information Technology
-- 💬 Ask me about anything related to me, programming or whatever by creating a new issue [here](https://github.com/fbarresi/fbarresi/issues/new?assignees=&labels=question&template=&title=Question%3A+%5BYour-Title%5D).
+- 💬 Ask me about anything related to me, programming or whatever by creating a new discussion [here](https://github.com/fbarresi/fbarresi/discussions/new?category=general).
 - ⚡ Fun fact: you can talk to me in three different languages: italian, german and english!
 
 

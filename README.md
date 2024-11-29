@@ -9,7 +9,6 @@ My name is Fede! I'm a physicist, professional software developer and opensource
 - ⚡ Fun fact: you can talk to me in three different languages: italian, german and english!
 
 
-![](https://github-readme-stats.vercel.app/api?username=fbarresi&&show_icons=true&theme=tokyonight)
 
 
 <!--
